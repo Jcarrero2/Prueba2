@@ -13,7 +13,6 @@ public class Test01Application {
 		System.out.println("modificacion rama1");
 		System.out.println("cambio en git");
 		System.out.println("conflicto rama1");
-		System.out.println("conflicto rama2");
 	}
 
 }
